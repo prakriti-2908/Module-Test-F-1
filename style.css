@@ -31,7 +31,7 @@ body {
  width: 6px; 
  height: 6px;
  position: absolute;
- right: 20px;
+ right: 1px;
 }
 
 /* hero css */
@@ -529,4 +529,23 @@ ul{
           .add-to-cart{
             bottom: 25px;
           }
+
+
+          .a{
+            max-width: 50%;
+            font-size: 10px;
+          }
+          .b{
+            max-width: 50%;
+            font-size: 10px;
+          }
+          .c{
+            max-width: 50%;
+            font-size: 10px;
+          }
+          .grid-content{
+            bottom: 4px;
+            font-weight: 900;
+          }
+
   }
