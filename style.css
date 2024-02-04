@@ -495,12 +495,12 @@ ul{
               /* gap: 95px; */
               overflow-x: scroll;
               white-space: nowrap;
-            margin-left: 170px;
+            margin-left: 100px;
 
           }
           .box{
             white-space: nowrap;
-                          margin-bottom: 10px;
+            margin-bottom: 10px;
           }
           #grid{
             white-space: nowrap;
