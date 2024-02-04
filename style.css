@@ -449,6 +449,21 @@ ul{
     .list_items {
       padding: 5px;
     }
+    .hero_img{
+            display: none;
+          }
+          .wrapper{
+            display: inline-block;
+              /* gap: 95px; */
+              overflow-x: scroll;
+              white-space: nowrap;
+          }
+          .box{
+            white-space: nowrap;
+          }
+          #grid{
+            white-space: nowrap;
+          }
   }
 
 
@@ -472,5 +487,46 @@ ul{
           .items{
               white-space: nowrap;
           }
+          .hero_img{
+            display: none;
+          }
+          .wrapper{
+            display: inline-block;
+              /* gap: 95px; */
+              overflow-x: scroll;
+              white-space: nowrap;
+          }
+          .box{
+            white-space: nowrap;
+                          margin-bottom: 10px;
+          }
+          #grid{
+            white-space: nowrap;
+          }
           
+
+          #card_b{
+            font-size: 15px;
+          }
+          .redI{
+            right: 120px;
+          }
+          .navbar-nav{
+            margin-left: 2px !important;
+            
+          }
+          .icons{
+            margin-left: 25px !important;
+            margin-top: 10px;
+          }
+          .redcircle{
+            left: 100px;
+          }
+          .ratings{
+            margin-left: auto;
+            margin-right: auto;
+          }
+          .add-to-cart{
+            bottom: 25px;
+          }
   }
