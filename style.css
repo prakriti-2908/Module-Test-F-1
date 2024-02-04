@@ -536,7 +536,7 @@ ul{
 
 
           .a{
-            max-width: 65%;
+            max-width: 70%;
             font-size: 10px;
           }
           .b{
@@ -544,7 +544,7 @@ ul{
             font-size: 10px;
           }
           .c{
-            max-width: 65%;
+            max-width: 70%;
             font-size: 10px;
           }
           .grid-content{
@@ -556,7 +556,7 @@ ul{
 
           
           #card_body{
-            padding-left: 10px;
+            padding-right: 10px;
           }
           .fav-card{
             margin-top: 15px;
