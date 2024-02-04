@@ -495,6 +495,8 @@ ul{
               /* gap: 95px; */
               overflow-x: scroll;
               white-space: nowrap;
+            margin-left: 170px;
+
           }
           .box{
             white-space: nowrap;
@@ -503,7 +505,9 @@ ul{
           #grid{
             white-space: nowrap;
           }
-          
+          .card-text{
+            font-size: 10px;
+          }
 
           #card_b{
             font-size: 15px;
@@ -532,7 +536,7 @@ ul{
 
 
           .a{
-            max-width: 50%;
+            max-width: 65%;
             font-size: 10px;
           }
           .b{
@@ -540,11 +544,11 @@ ul{
             font-size: 10px;
           }
           .c{
-            max-width: 50%;
+            max-width: 65%;
             font-size: 10px;
           }
           .grid-content{
-            bottom: 4px;
+            bottom: 2px;
             font-weight: 900;
           }
 
