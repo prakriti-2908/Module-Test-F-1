@@ -548,8 +548,10 @@ ul{
             font-size: 10px;
           }
           .grid-content{
-            bottom: 2px;
+            bottom: 1px;
             font-weight: 900;
+            font-size: 7.5px;
+
           }
 
           
